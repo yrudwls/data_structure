@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yrudwls/Desktop/data_structure/level_order_search_tree/level_order'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _error, symObjAddr: 0x0, symBinAddr: 0x100003C2C, symSize: 0x3C }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _n1, symObjAddr: 0x340, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xA6, offset: 0xA6, size: 0x8, addend: 0x0, symName: _n2, symObjAddr: 0x358, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _n3, symObjAddr: 0x370, symBinAddr: 0x100008030, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: _n4, symObjAddr: 0x388, symBinAddr: 0x100008048, symSize: 0x0 }
+  - { offsetInCU: 0xE5, offset: 0xE5, size: 0x8, addend: 0x0, symName: _n5, symObjAddr: 0x3A0, symBinAddr: 0x100008060, symSize: 0x0 }
+  - { offsetInCU: 0xFA, offset: 0xFA, size: 0x8, addend: 0x0, symName: _n6, symObjAddr: 0x3B8, symBinAddr: 0x100008078, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: _root, symObjAddr: 0x3D0, symBinAddr: 0x100008090, symSize: 0x0 }
+  - { offsetInCU: 0x11D, offset: 0x11D, size: 0x8, addend: 0x0, symName: _error, symObjAddr: 0x0, symBinAddr: 0x100003C2C, symSize: 0x3C }
+  - { offsetInCU: 0x141, offset: 0x141, size: 0x8, addend: 0x0, symName: _init_queue, symObjAddr: 0x3C, symBinAddr: 0x100003C68, symSize: 0x20 }
+  - { offsetInCU: 0x165, offset: 0x165, size: 0x8, addend: 0x0, symName: _is_empty, symObjAddr: 0x5C, symBinAddr: 0x100003C88, symSize: 0x2C }
+  - { offsetInCU: 0x18D, offset: 0x18D, size: 0x8, addend: 0x0, symName: _is_full, symObjAddr: 0x88, symBinAddr: 0x100003CB4, symSize: 0x40 }
+  - { offsetInCU: 0x1B5, offset: 0x1B5, size: 0x8, addend: 0x0, symName: _enqueue, symObjAddr: 0xC8, symBinAddr: 0x100003CF4, symSize: 0x80 }
+  - { offsetInCU: 0x1E7, offset: 0x1E7, size: 0x8, addend: 0x0, symName: _dequeue, symObjAddr: 0x148, symBinAddr: 0x100003D74, symSize: 0x78 }
+  - { offsetInCU: 0x20F, offset: 0x20F, size: 0x8, addend: 0x0, symName: _level_order, symObjAddr: 0x1C0, symBinAddr: 0x100003DEC, symSize: 0xF4 }
+  - { offsetInCU: 0x241, offset: 0x241, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2B4, symBinAddr: 0x100003EE0, symSize: 0x4C }
+...
